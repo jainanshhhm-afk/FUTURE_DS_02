@@ -29,3 +29,11 @@ Payment Optimization: Encourage the adoption of automated payment methods over e
 
 Targeted Retention: Offer personalized retention packages to high-risk customers, specifically those in high-billing tiers or using Fiber optic services.
 
+📂 Repository Structure
+
+Telco-Customer-Churn.zip: Contains the raw/processed datasets (if applicable).
+
+TASK_2_FUTURE_INTERNS.pbix: Includes the .pbix Power BI file.
+
+README.md: Project documentation and summary of findings.
+
